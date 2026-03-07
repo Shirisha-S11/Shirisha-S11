@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Shirisha 👋
 
-<!--
-**Shirisha-S11/Shirisha-S11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Data Analyst | Power BI | SQL | Data Visualization
 
-Here are some ideas to get you started:
+I am a Data Analyst with **4+ years of experience working with data, dashboards, and business insights**.
+My focus is transforming raw data into actionable insights using **Power BI, SQL, Excel, and data visualization techniques**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+* Power BI (Data Modeling, DAX, Interactive Dashboards)
+* SQL (Data Extraction & Analysis)
+* Excel (Power Query, Pivot Tables)
+* Data Cleaning & Transformation
+* Business Intelligence Reporting
+* Data Visualization & Storytelling
+
+## Featured Analytics Projects
+
+### Meta Ad Performance Analysis
+
+Power BI dashboard analyzing advertising campaign performance across **Facebook and Instagram**.
+
+Key Analysis:
+
+* Campaign reach and engagement metrics
+* Audience segmentation (age, gender, location)
+* Conversion funnel analysis
+* Ad format performance comparison
+
+Tools: Power BI, DAX, Power Query
+
+### Call Center Performance Dashboard
+
+Sales Performance Dashboard
+
+### Sales Performance Dashboard
+
+Performed sales data analysis using SQL to uncover product performance and revenue trends.
+
+Key Analysis:
+
+Total sales and revenue by product category
+
+Regional sales comparison
+
+Monthly sales trends
+
+Top performing products and customers
+
+Tools: SQL, Data Analysis, Aggregations, Joins
+
+## Contact
+
+LinkedIn: (Add your LinkedIn)
+Email: Shirishasd11@gmail.com
+
