@@ -54,5 +54,6 @@ Tools: SQL, Data Analysis, Aggregations, Joins
 ## Contact
 
 LinkedIn: www.linkedin.com/in/shirishas11
+
 Email: Shirishasd11@gmail.com
 
