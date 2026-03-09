@@ -30,12 +30,15 @@ Key Analysis:
 Tools: Power BI, DAX, Power Query
 
 ### Call Center Performance Dashboard
-Business Insights
-*Identified top revenue-generating representatives
-*Compared customer satisfaction across agents
-*Analyzed monthly demand trends
-*Evaluated revenue contribution by city and gender
+This project analyzes call centre operations and customer data using Microsoft Excel.
 
+Key Analysis:
+
+* Identified top revenue-generating representatives
+* Compared customer satisfaction across agents
+* Analyzed monthly demand trends
+* Evaluated revenue contribution by city and gender
+  
 Tools : Microsoft Excel (Data Model, Pivot Tables, Slicers, Charts)
 
 ### Sales Performance Dashboard
@@ -43,17 +46,15 @@ Tools : Microsoft Excel (Data Model, Pivot Tables, Slicers, Charts)
 Performed sales data analysis using SQL to uncover product performance and revenue trends.
 
 Key Analysis:
-
-*Total sales and revenue by product category
-*Regional sales comparison
-*Monthly sales trends
-*Top performing products and customers
+* Total sales and revenue by product category
+* Regional sales comparison
+* Monthly sales trends
+* Top performing products and customers
 
 Tools: SQL, Data Analysis, Aggregations, Joins
 
 ## Contact
 
 LinkedIn: www.linkedin.com/in/shirishas11
-
 Email: Shirishasd11@gmail.com
 
