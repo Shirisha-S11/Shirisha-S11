@@ -2,7 +2,7 @@
 
 📊 Data Analyst | Power BI | SQL | Data Visualization
 
-I am a Data Analyst with **4+ years of experience working with data, dashboards, and business insights**.
+I am a Data Analyst with **5+ years of experience working with data, dashboards, and business insights**.
 My focus is transforming raw data into actionable insights using **Power BI, SQL, Excel, and data visualization techniques**.
 
 ## Skills
